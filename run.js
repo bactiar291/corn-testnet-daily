@@ -679,7 +679,7 @@ class CornBot {
   }
 
   async main() {
-    console.log('\nðŸŒ½ Corn Loyalty Auto BOT');
+    console.log('\nðŸŒ½ Corn Loyalty Bot');
     console.log('ðŸ‘¤ Bactiar291');
     console.log('='.repeat(70));
 
