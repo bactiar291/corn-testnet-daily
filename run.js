@@ -680,7 +680,7 @@ class CornBot {
 
   async main() {
     console.log('\nðŸŒ½ Corn Loyalty Auto BOT');
-    console.log('ðŸ‘¤ by Rey - <INI WATERMARK>');
+    console.log('ðŸ‘¤ Bactiar291');
     console.log('='.repeat(70));
 
     if (this.accounts.length === 0) {
